@@ -1,4 +1,4 @@
-# agenda.descarregos
+# Sistema para Agenda Descarregos de Caminhões
 Solução finalizada, criada em Outubro de 2016.
 
 •	Sistema para manter agendamentos de descarrego de caminhões, quando os fornecedores entram em contato, combina data e horário para realizar a ação no recebimento das mercadorias (descarregamento de caminhões).
